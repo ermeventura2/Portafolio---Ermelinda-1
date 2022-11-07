@@ -44,7 +44,7 @@ a:visited {
 
 /* mouse over */
 a:hover {
-    color: #ffffff;
+    color: #65463E;
 }
 
 /* link selecionado */
@@ -69,10 +69,12 @@ a:active {
 }   
 
 footer{
-    background-color: #65463E;
+    background-color: #AAD6A0;
     display: grid;
     justify-content: center;
-    padding: 15px;
+    
+    padding: 3%;
+
     max-width: 100%;
     max-height: 100%;
 }
