@@ -83,5 +83,22 @@ footer{
     margin-top: 5%;
 }
 
+form{
+    background-color: #AAD6AA;
+    width: 300px;
+    margin: 200px;
+    height: 200px;
+    text-align: center;
+}
+
+input{
+    background-color: #D2E5D0;
+    display: block;
+    margin: 10px;
+    width: 250px;
+    height: 30px;
+    
+}
+
 
 
